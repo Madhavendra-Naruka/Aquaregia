@@ -538,12 +538,7 @@ body{
     html {
         font-size: 55%;
     }
-    #wholecardvinod{
-        order: 2;
-    }
-    #wholecardmadhu{
-        order: 1;
-    }
+
 }
 
 @media screen and (max-width:768px) {
